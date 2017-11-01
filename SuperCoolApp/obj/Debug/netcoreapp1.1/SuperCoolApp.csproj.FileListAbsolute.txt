@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/SuperCoolApp/SuperCoolApp/bin/Debug/netcoreapp1.1/SuperCoolApp.deps.json
+/Users/Guest/Desktop/SuperCoolApp/SuperCoolApp/bin/Debug/netcoreapp1.1/SuperCoolApp.runtimeconfig.json
+/Users/Guest/Desktop/SuperCoolApp/SuperCoolApp/bin/Debug/netcoreapp1.1/SuperCoolApp.runtimeconfig.dev.json
+/Users/Guest/Desktop/SuperCoolApp/SuperCoolApp/bin/Debug/netcoreapp1.1/SuperCoolApp.dll
+/Users/Guest/Desktop/SuperCoolApp/SuperCoolApp/bin/Debug/netcoreapp1.1/SuperCoolApp.pdb
+/Users/Guest/Desktop/SuperCoolApp/SuperCoolApp/obj/Debug/netcoreapp1.1/SuperCoolApp.AssemblyInfo.cs
+/Users/Guest/Desktop/SuperCoolApp/SuperCoolApp/obj/Debug/netcoreapp1.1/SuperCoolApp.dll
+/Users/Guest/Desktop/SuperCoolApp/SuperCoolApp/obj/Debug/netcoreapp1.1/SuperCoolApp.pdb

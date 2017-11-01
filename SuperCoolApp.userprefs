@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{919DE3A0-38E2-49E4-91B6-D4922B73105C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperCoolApp/src/app/app.component.ts">
+    <Files>
+      <File FileName="SuperCoolApp/proxy.config.json" Line="6" Column="2" />
+      <File FileName="SuperCoolApp/SuperCoolApp.csproj" Line="8" Column="1" />
+      <File FileName="SuperCoolApp/src/app/app.component.html" Line="4" Column="48" />
+      <File FileName="SuperCoolApp/ValuesController.cs" Line="22" Column="2" />
+      <File FileName="SuperCoolApp/src/app/app.component.ts" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SuperCoolApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
